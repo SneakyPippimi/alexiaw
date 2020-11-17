@@ -1,0 +1,57 @@
+body {
+    background-color:#E5E7E9;
+    
+}
+
+
+.logo{
+    float: left;    
+ 
+
+}
+header{
+
+    background-image: URL("../imagens/cabecera.jpeg");
+    height: 15%;
+    width: 100%;
+    background-color:#CCCCCC;
+}
+
+footer{
+    background-color:#A6ACAF;
+
+
+}
+
+.texto_Cab{
+    margin-left:50%;
+    font-size: 40px;
+    color: #810ae2;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
+
+.texto_cent{
+
+color: #E5E7E9
+
+}
+
+.centro{
+
+    background-color: #A6ACAF;
+    height: 200px;
+
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+.tabla_datos {
+    border: 1px;
+    color: solid black;
+
+}
